@@ -39,7 +39,7 @@ Technology Selection: Evaluate and select the appropriate Web3 technologies and 
 - Prescription management: Recording prescriptions issued by doctors.
 - Pharmacy inventory management: Managing drug procurement, sales, and inventory.
 
-![image](https://github.com/UltimateWilliamWu/Web3-HealthCare-System/assets/157347161/c818955b-3934-4c21-9469-9b41af7010c5)
+![image](https://github.com/UltimateWilliamWu/Web3-HealthCare-System/assets/157347161/5d85f872-d4a4-404f-a387-72839f7ccab2)
 
 ### v. When should the solution be used 
 **Routine Medical Visits**: Patients can use the solution for scheduling routine medical visits, accessing medical records, and communicating with healthcare providers for consultations and follow-ups.
